@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there 👋 I'm Nihad Babazade
 
-<!--
-**BNihad/BNihad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Java Backend Developer passionate about building scalable, maintainable systems with Spring Boot, AWS, and modern DevOps tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 **Tech Stack**
+- 💻 Java, Spring Boot, Hibernate
+- ☁️ AWS (EC2, RDS, Lambda), Docker, Kubernetes
+- 🧪 JUnit, Mockito, Postman, Swagger
+- 🛠️ GitHub Actions, Jenkins, Maven, Gradle
+- 🗃️ PostgreSQL, MySQL, Redis
+
+---
+
+📊 **Current Focus**
+- Optimizing microservices architecture
+- Automating CI/CD pipelines
+- Learning advanced cloud deployment strategies
+
+---
+
+📈 **GitHub Stats**  
+![Nihad's GitHub stats](https://github-readme-stats.vercel.app/api?username=BNihad&show_icons=true&theme=default)
+
+---
+
+📫 **Get in Touch**  
+[LinkedIn](https://www.linkedin.com/in/nihad-babazade/) • babazadenihad331@gmail.com
