@@ -25,5 +25,9 @@ I'm a Java Backend Developer passionate about building scalable, maintainable sy
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=BNihad&color=blue)
+
+---
+
 📫 **Get in Touch**  
 [LinkedIn](https://www.linkedin.com/in/nihad-babazade/) • babazadenihad331@gmail.com
